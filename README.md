@@ -66,9 +66,8 @@ Our dealership needed a centralized and dynamic reporting system to:
 ---
 
 ## 📎 Screenshot Preview
-
-<p align="center">
-  <img src="screenshots/dashboard_overview.png" width="700" />
-</p>
-
+1. **Dasboard Overview:** 
+https://github.com/Dipanshu-BA/Car_Sales_PowerBI_Dashboard/blob/main/Images/1.%20Car%20Sales%20Dashboard-Overview.png
+2. **Dashboard Details:**
+https://github.com/Dipanshu-BA/Car_Sales_PowerBI_Dashboard/blob/main/Images/2.%20Car%20Sales%20Dashboard-Detail.png
 ---
